@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvmaMp6/R0+sIoRHk6NtUHKR5DyvItsC2GJy8HenfZxIhgumQ/1fnIQQfWvWAceU1K+npfTbULEb8uTwrPc1MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\CHIENNT\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

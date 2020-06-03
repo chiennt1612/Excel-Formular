@@ -1,0 +1,36 @@
+{
+  "PivotData": {
+    "ParameterOutput": null,
+    "Count": 6,
+    "Items": [
+      {
+        "ID": "ADD3",
+        "NAME": "{LS833100}#ADD3"
+      },
+      {
+        "ID": "ADD5",
+        "NAME": "{LS833109}#ADD5"
+      },
+      {
+        "ID": "ALLOWANCE17",
+        "NAME": "{LS833190}#ALLOWANCE17"
+      },
+      {
+        "ID": "ALLOWANCE19",
+        "NAME": "{LS833171}#ALLOWANCE19"
+      },
+      {
+        "ID": "DEDUCT1",
+        "NAME": "{LS833112}#DEDUCT1"
+      },
+      {
+        "ID": "TAX9",
+        "NAME": "{LS833199}#TAX9"
+      }
+    ],
+    "ItemType": {
+      "ID": "String",
+      "NAME": "String"
+    }
+  }
+}
