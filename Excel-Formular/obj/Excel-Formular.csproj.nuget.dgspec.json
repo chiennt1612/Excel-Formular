@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\CHIENNT\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\CHIENNT\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\CHIENNT\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj",
         "projectName": "Excel-Formular",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\CHIENNT\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Excel-Formular\\Excel-Formular\\Excel-Formular.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\CHIENNT\\Excel-Formular\\Excel-Formular\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Excel-Formular\\Excel-Formular\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "EPPlus.Core": {
+              "target": "Package",
+              "version": "[1.5.4, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
